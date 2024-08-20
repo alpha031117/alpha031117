@@ -1,11 +1,12 @@
-<h2 align="center">Hi👋, I'm Alpha Chong</h2>
-<p align="center">
-  Second Year Software Engineering Student | Fullstack Web Developer | Web2 & Web 3 with AI Integration Enthusiast
-</p>
+<h1 align="center">Hi 👋, I'm Alpha Chong</h1>
+
+<h3 align="center">Second Year Software Engineering Student | Fullstack Web Developer | Web2 & Web3 with AI Integration Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alpha031117" alt="Profile Views" />
 </p>
+
+## 🚀 Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -13,37 +14,73 @@
   </a>
 </p>
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=alpha031117&theme=dark&background=000000" alt="GitHub Streak" style="display: inline-block; margin-right: 30px;" />&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha031117&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alpha031117&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-- 💻 My Projects: <a href="https://github.com/alpha031117">https://github.com/alpha031117</a>
-- 📫 How to reach me: <a href="mailto:alphachongs@gmail.com">alphachongs@gmail.com</a>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=alpha031117&theme=dark&background=000000" alt="GitHub Streak" />
+</p>
 
-<h3>Connect With Me:</h3>
-  <a href="https://github.com/alpha031117">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpha031117&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpha031117&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alpha031117&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+## 🌟 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpha031117&repo=tr3nity-frontend&theme=dark)](https://github.com/alpha031117/tr3nity-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpha031117&repo=tr3nity_backend&theme=dark)](https://github.com/alpha031117/tr3nity_backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpha031117&repo=Evepay-Frontend&theme=dark)](https://github.com/alpha031117/Evepay-Frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpha031117&repo=Evepay-Backend&theme=dark)](https://github.com/alpha031117/Evepay-Backend)
+
+## 🎓 Education
+
+- Currently pursuing a Software Engineering degree (2nd Year)
+
+## 💡 Interests
+
+- Fullstack Web Development
+- Web2 & Web3 Technologies
+- AI Integration in Web Applications
+
+## 📫 How to Reach Me
+
+- Email: [alphachongs@gmail.com](mailto:alphachongs@gmail.com)
+
+## 🔗 Connect With Me
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/alpha-chong-862747247/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Twitter" height="40" width="40" />
   </a>
-  <a href="https://x.com/alpha_chon21129">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
+  <a href="https://github.com/alpha031117" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
+  </a>
+  <a href="https://x.com/alpha_chon21129" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" width="40" />
   </a>
 </p>
 
+---
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 
-  
-<!--
-**alpha031117/alpha031117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Thanks for visiting my profile! Feel free to check out my projects and connect with me.
+</p>
