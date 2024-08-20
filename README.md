@@ -64,15 +64,8 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/alpha-chong-862747247/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Twitter" height="40" width="40" />
-  </a>
-  <a href="https://github.com/alpha031117" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
-  </a>
-  <a href="https://x.com/alpha_chon21129" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" width="40" />
-  </a>
+  <a href="https://twitter.com/alpha_chon21129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alpha_chon21129" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/alpha-chong-862747247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpha-chong-862747247" height="30" width="40" /></a>
 </p>
 
 ---
