@@ -49,7 +49,7 @@
 
 ## 🎓 Education
 
-- Currently pursuing a Software Engineering degree (2nd Year)
+- Currently a Penultimate Year of Software Engineering Degree Student
 
 ## 💡 Interests
 
